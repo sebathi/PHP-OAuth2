@@ -1,7 +1,7 @@
 <?php
-namespace OAuth2\GrantType;
+namespace OAuth2Client\GrantType;
 
-use OAuth2\InvalidArgumentException;
+use OAuth2Client\InvalidArgumentException;
 
 /**
  * Refresh Token  Parameters
